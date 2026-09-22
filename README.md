@@ -8,12 +8,13 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
 </a>
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+;I'm+Mobina!👋;+founder;of+technopath+Welcome+to+my+Github+!&center=true&size=26&color=821FF7&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mobina!+👋;Founder+of+Technopath.;Welcome+to+my+GitHub+✨&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
- 
 </h1>
+
 <h4>
  What We DO:
  </h4>
