@@ -1,16 +1,9 @@
-🕵️‍♂️ About Me
+About Technopath:
 
-    🙂 I am Mobina karimi And Im 19 years old.
-   
-    😎 Interested in contributing expertise in web and
-
-    👯 Looking to collaborate on Innovative Projects.
-
-    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-
-    📚 Love reading books on personal development.
-
-    💬 Ask me about Web and mobile.
+Technopath was founded with a foundation in computer science and technology education, but its vision extends beyond traditional computer education.
+Our primary focus is Digital Marketing and Branding, with an emphasis on building and growing brands across digital platforms such as Instagram, Telegram, YouTube, and other digital channels.
+We believe successful digital growth is not the result of content alone.
+It requires a clear strategy, a deep understanding of the audience, consistent execution, strong branding, and continuous measurement and optimization.
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
 </a>
