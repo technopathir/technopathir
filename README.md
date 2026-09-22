@@ -12,7 +12,8 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Mobina;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
-  What We Do
+ <p>
+   What We Do
 
 At Technopath, we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
 
@@ -57,6 +58,7 @@ We develop search-focused strategies to improve organic visibility, strengthen d
 WordPress Website Design
 
 We design and develop professional WordPress websites aligned with the brand identity, business objectives, and overall digital marketing strategy.
+ </p>
 </h1>
 
 ## 🌐 Socials:
