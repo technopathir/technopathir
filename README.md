@@ -1,6 +1,16 @@
-# 💫 About Me:
-Hello, my name is Mobina 👋 I am a .<br>
+🕵️‍♂️ About Me
 
+    🙂 I am Mobina karimi And Im 19 years old.
+   
+    😎 Interested in contributing expertise in web and
+
+    👯 Looking to collaborate on Innovative Projects.
+
+    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+
+    📚 Love reading books on personal development.
+
+    💬 Ask me about Web and mobile.
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
 </a>
