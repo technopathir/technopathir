@@ -105,26 +105,3 @@ Our strength lies in connecting these disciplines rather than treating them as s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-## :chart_with_upwards_trend: GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=technopathir&theme=tokyo-night&hide_border=true)
-
-</div>
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=technopathir&color=821FF7&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<p align="center">
-  <b>Building brands. Growing businesses. Connecting technology with strategy.</b>
-</p>
