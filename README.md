@@ -10,7 +10,7 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Mobina;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+;I'm+Mobina!👋;founder+of+technopath+Welcome+to+my+Github+!&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
  
 </h1>
