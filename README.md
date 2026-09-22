@@ -17,11 +17,41 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
 <h4>
  What We DO:
  </h4>
-At Technopath we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
+At Technopath, we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
+
 Our Services
+
 Digital Marketing Strategy
+
 We develop practical digital marketing strategies based on business objectives, target audiences, market conditions, and measurable outcomes.
-Branding 
+
+Branding
+
+We build clear, consistent, and recognizable brand identities that help businesses establish trust and stand out in their market.
+
+Content Strategy & Production
+
+We plan and produce content around audience needs, brand positioning, and specific marketing objectives.
+
+Social Media Marketing
+
+We develop and manage social media strategies across platforms such as Instagram, Telegram, YouTube, and other digital channels.
+
+Competitor Analysis
+
+We analyze competitors, market positioning, content strategies, strengths, weaknesses, and opportunities to identify practical areas for growth.
+
+Marketing Roadmaps
+
+We create structured marketing roadmaps that define what to do, where to do it, who to target, and why it matters.
+
+Campaign Management
+
+We plan, execute, and manage digital campaigns with a focus on measurable performance and business results.
+
+Scriptwriting
+
+We create strategic scripts for short-form and long-form video content, focusing on clarity, audience retention, and conversion.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/technopath_ir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6x32UI9ZvhI?si=HTY82S-pwMVHXGoK) 
