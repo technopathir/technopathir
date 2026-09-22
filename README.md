@@ -14,8 +14,9 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
   </a>
  
 </h1>
-## What We DO:
- 
+<h5>
+ What We DO:
+ </h5>
 At Technopath we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
 Our Services
 Digital Marketing Strategy
