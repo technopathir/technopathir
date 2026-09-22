@@ -12,13 +12,14 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Mobina;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
+ 
+</h1>
  ### What We DO?
 At Technopath we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
 Our Services
 Digital Marketing Strategy
 We develop practical digital marketing strategies based on business objectives, target audiences, market conditions, and measurable outcomes.
-Branding  
-</h1>
+Branding 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/technopath_ir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6x32UI9ZvhI?si=HTY82S-pwMVHXGoK) 
