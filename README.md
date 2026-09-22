@@ -74,17 +74,17 @@ Our strength lies in connecting these disciplines rather than treating them as s
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technopathir)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/technopath_ir)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@technopathir)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6x32UI9ZvhI?si=HTY82S-pwMVHXGoK)
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/technopathir)
 
-[![Website](https://img.shields.io/badge/Website-%234285F4.svg?logo=google-chrome&logoColor=white)](https://technopathir.com)
+[![Website](https://img.shields.io/badge/Website-%234285F4.svg?logo=google-chrome&logoColor=white)](https://technoopath.ir/)
 
-[![Aparat](https://img.shields.io/badge/Aparat-%23ED1C24.svg?logo=aparat&logoColor=white)](https://www.aparat.com/technopathir)
+[![Aparat](https://img.shields.io/badge/Aparat-%23ED1C24.svg?logo=aparat&logoColor=white)](https://www.aparat.com/technopath_ir)
 
-[![Rubika](https://img.shields.io/badge/Rubika-%237B2CBF.svg?logo=rubika&logoColor=white)](https://rubika.ir/technopathir)
+[![Rubika](https://img.shields.io/badge/Rubika-%237B2CBF.svg?logo=rubika&logoColor=white)](https://rubika.ir/technopath__ir)
 
 </div>
 
