@@ -1,4 +1,4 @@
-About Technopath:
+<h4>About Technopath:</h4>
 
 Technopath was founded with a foundation in computer science and technology education, but its vision extends beyond traditional computer education.
 Our primary focus is Digital Marketing and Branding, with an emphasis on building and growing brands across digital platforms such as Instagram, Telegram, YouTube, and other digital channels.
