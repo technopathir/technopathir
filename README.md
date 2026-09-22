@@ -12,53 +12,7 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Mobina;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
- <p>
-   What We Do
-
-At Technopath, we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
-
-Our Services
-
-Digital Marketing Strategy
-
-We develop practical digital marketing strategies based on business objectives, target audiences, market conditions, and measurable outcomes.
-
-Branding
-
-We build clear, consistent, and recognizable brand identities that help businesses establish trust and stand out in their market.
-
-Content Strategy & Production
-
-We plan and produce content around audience needs, brand positioning, and specific marketing objectives.
-
-Social Media Marketing
-
-We develop and manage social media strategies across platforms such as Instagram, Telegram, YouTube, and other digital channels.
-
-Competitor Analysis
-
-We analyze competitors, market positioning, content strategies, strengths, weaknesses, and opportunities to identify practical areas for growth.
-
-Marketing Roadmaps
-
-We create structured marketing roadmaps that define what to do, where to do it, who to target, and why it matters.
-
-Campaign Management
-
-We plan, execute, and manage digital campaigns with a focus on measurable performance and business results.
-
-Scriptwriting
-
-We create strategic scripts for short-form and long-form video content, focusing on clarity, audience retention, and conversion.
-
-SEO
-
-We develop search-focused strategies to improve organic visibility, strengthen digital presence, and attract relevant audiences.
-
-WordPress Website Design
-
-We design and develop professional WordPress websites aligned with the brand identity, business objectives, and overall digital marketing strategy.
- </p>
+ 
 </h1>
 
 ## 🌐 Socials:
