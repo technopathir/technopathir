@@ -19,19 +19,19 @@ It requires a clear strategy, a deep understanding of the audience, consistent e
  </h4>
 At Technopath, we help businesses and personal brands build and execute practical digital marketing strategies designed around clear goals, target audiences, and measurable outcomes.
 <h4>Skills:</h4>
-• Digital Marketing
-• Brand Strategy
-• Branding
-• Social Media Marketing
-• Content Strategy
-• Content Production
-• Video Editing
-• Campaign Management
-• Scriptwriting
-• Competitor Analysis
-• Marketing Roadmapping
-• SEO
-• WordPress Website Design
+• Digital Marketing<br>
+• Brand Strategy<br>
+• Branding<br>
+• Social Media Marketing<br>
+• Content Strategy<br>
+• Content Production<br>
+• Video Editing<br>
+• Campaign Management<br>
+• Scriptwriting<br>
+• Competitor Analysis<br>
+• Marketing Roadmapping<br>
+• SEO<br>
+• WordPress Website Design<br>
 
 Our strength lies in connecting these disciplines rather than treating them as separate services.
 ## 🌐 Socials:
