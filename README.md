@@ -34,6 +34,7 @@ At Technopath, we help businesses and personal brands build and execute practica
 • WordPress Website Design<br>
 
 <h3>Our strength lies in connecting these disciplines rather than treating them as separate services.</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/technopath_ir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/6x32UI9ZvhI?si=HTY82S-pwMVHXGoK) 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/technopath_ir)
