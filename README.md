@@ -138,6 +138,23 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a></div>
+🌐 Socials
+
+<div align="center"><a href="https://www.instagram.com/technopath_ir">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
+</a><a href="https://t.me/technopathir">
+<img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" />
+</a><a href="https://youtu.be/6x32UI9ZvhI">
+<img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" />
+</a><a href="https://www.aparat.com/technopath_ir">
+<img src="https://img.shields.io/badge/Aparat-8B5CF6?style=for-the-badge&logoColor=white" />
+</a><a href="https://rubika.ir/technopath__ir">
+<img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
+</a><a href="https://technoopath.ir/">
+<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a></div>
+
+
 > philosophy
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:4C1D95,100:7C3AED&height=180&text=BUILD%20WITH%20PURPOSE&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Strategy%20%7C%20Technology%20%7C%20Creativity%20%7C%20Growth&descAlignY=65&descSize=16" /><br><table>
@@ -189,18 +206,3 @@ We build systems designed to grow.
 
 </div>
 
-🌐 Socials
-
-<div align="center"><a href="https://www.instagram.com/technopath_ir">
-<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
-</a><a href="https://t.me/technopathir">
-<img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" />
-</a><a href="https://youtu.be/6x32UI9ZvhI">
-<img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><a href="https://www.aparat.com/technopath_ir">
-<img src="https://img.shields.io/badge/Aparat-8B5CF6?style=for-the-badge&logoColor=white" />
-</a><a href="https://rubika.ir/technopath__ir">
-<img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
-</a><a href="https://technoopath.ir/">
-<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>
