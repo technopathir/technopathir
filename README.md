@@ -3,6 +3,7 @@
 <a href="https://github.com/technopathir">
 <img src="https://komarev.com/ghpvc/?username=technopathir&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
 </a><a href="https://github.com/technopathir?tab=followers">
+  
 <img src="https://img.shields.io/github/followers/technopathir?label=FOLLOWERS&style=for-the-badge&logo=github&color=1E1033" />
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/WEBSITE-TECHNOPATH-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -89,7 +90,10 @@ Through Technopath, the goal is to combine technology, strategic marketing, crea
 
 > what_we_do
 
-<div align="center">🚀 Digital Marketing
+
+<div align="center">
+
+🚀 Digital Marketing
 
 <img src="https://img.shields.io/badge/Digital_Marketing-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Brand_Strategy-A855F7?style=for-the-badge" />
@@ -108,7 +112,7 @@ Through Technopath, the goal is to combine technology, strategic marketing, crea
 <img src="https://img.shields.io/badge/SEO-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Analytics-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Campaign_Management-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>---
+<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>
 
 > skills
 
@@ -122,7 +126,7 @@ Through Technopath, the goal is to combine technology, strategic marketing, crea
 
 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=notion,github,git,vscode,vercel&theme=dark" /></div>---
+<img src="https://skillicons.dev/icons?i=notion,github,git,vscode,vercel&theme=dark" /></div>
 
 🌐 Socials
 
@@ -191,4 +195,4 @@ We build systems designed to grow.
 → Turning digital experiences into growth.
 
 </div>
->
+
