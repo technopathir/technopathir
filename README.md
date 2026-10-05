@@ -29,7 +29,7 @@ Clear Strategy • Audience Understanding • Consistent Execution • Strong Br
 
 Technopath brings these disciplines together to create practical digital growth systems for businesses and personal brands.
 
-
+---
 
 > current_focus
 
@@ -58,7 +58,7 @@ platforms:
   - Website
   - GitHub
 
-
+---
 
 > founder
 
@@ -85,7 +85,7 @@ Her work focuses on:
 
 Through Technopath, the goal is to combine technology, strategic marketing, creativity, and data-driven thinking to build stronger digital brands and create measurable growth.
 
-
+---
 
 > what_we_do
 
@@ -101,24 +101,20 @@ Through Technopath, the goal is to combine technology, strategic marketing, crea
 <img src="https://img.shields.io/badge/Technology_Education-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Networking-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cybersecurity-7C3AED?style=for-the-badge" />
-<img src="https://img.shield
-s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
+<img src="https://img.shields.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 
 📈 Growth
 
 <img src="https://img.shields.io/badge/SEO-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Analytics-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Campaign_Management-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>
+<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>---
+
 > skills
 
 <div align="center">🌐 Digital & Web
 
 <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,git,github,vscode&theme=dark" /><br><br>
-
-📈 Marketing & Analytics
-
-<img src="https://skillicons.dev/icons?i=googleanalytics,wordpress,instagram,youtube&theme=dark" /><br><br>
 
 🎨 Creative & Design
 
@@ -126,7 +122,8 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 
 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=notion,github,git,vscode,vercel&theme=dark" /></div>
+<img src="https://skillicons.dev/icons?i=notion,github,git,vscode,vercel&theme=dark" /></div>---
+
 🌐 Socials
 
 <div align="center"><a href="https://www.instagram.com/technopath_ir">
@@ -141,35 +138,20 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>
-🌐 Socials
-
-<div align="center"><a href="https://www.instagram.com/technopath_ir">
-<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
-</a><a href="https://t.me/technopathir">
-<img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" />
-</a><a href="https://youtu.be/6x32UI9ZvhI">
-<img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><a href="https://www.aparat.com/technopath_ir">
-<img src="https://img.shields.io/badge/Aparat-8B5CF6?style=for-the-badge&logoColor=white" />
-</a><a href="https://rubika.ir/technopath__ir">
-<img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
-</a><a href="https://technoopath.ir/">
-<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>
-
+</a></div>---
 
 > philosophy
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:4C1D95,100:7C3AED&height=180&text=BUILD%20WITH%20PURPOSE&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Strategy%20%7C%20Technology%20%7C%20Creativity%20%7C%20Growth&descAlignY=65&descSize=16" /><br><table>
-<tr>
-<td align="center" width="25%">🎯
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:4C1D95,100:7C3AED&height=180&text=BUILD%20WITH%20PURPOSE&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Strategy%20%7C%20Technology%20%7C%20Creativity%20%7C%20Growth&descAlignY=65&descSize=16" /><br><br>
+
+<table>
+<tr><td align="center" width="25%">🎯
 
 STRATEGY
 
-Clear goals
-Smart decisions
-Long-term vision
+Clear Goals
+Smart Decisions
+Long-Term Vision
 
 </td><td align="center" width="25%">💻
 
@@ -195,18 +177,27 @@ Measure
 Optimize
 Scale
 
-</td>
-</tr>
+</td></tr>
 </table><br>We don't just create content.
 
 We build systems designed to grow.
 
-<br>"STRATEGY" × "TECHNOLOGY" × "CREATIVITY" × "DATA"
+<br>STRATEGY × TECHNOLOGY × CREATIVITY × DATA
 
 <br><br>
 
 → Turning ideas into digital experiences.
+
 → Turning digital experiences into growth.
 
-</div>
+</div>---
 
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=technopathir&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=technopathir&theme=midnight-purple&hide_border=true" /><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>---
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0F071A&height=120&section=footer" /></div>
