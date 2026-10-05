@@ -29,7 +29,7 @@ Clear Strategy • Audience Understanding • Consistent Execution • Strong Br
 
 Technopath brings these disciplines together to create practical digital growth systems for businesses and personal brands.
 
----
+
 
 > current_focus
 
@@ -58,7 +58,7 @@ platforms:
   - Website
   - GitHub
 
----
+
 
 > founder
 
@@ -85,7 +85,7 @@ Her work focuses on:
 
 Through Technopath, the goal is to combine technology, strategic marketing, creativity, and data-driven thinking to build stronger digital brands and create measurable growth.
 
----
+
 
 > what_we_do
 
@@ -109,7 +109,7 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/SEO-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Analytics-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Campaign_Management-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>---
+<img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>
 
 > skills
 
@@ -121,7 +121,7 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/Content_Production-6D28D9?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Video_Editing-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scriptwriting-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Competitor_Analysis-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Marketing_Roadmapping-6D28D9?style=for-the-badge" /></div>---
+<img src="https://img.shields.io/badge/Marketing_Roadmapping-6D28D9?style=for-the-badge" /></div>
 
 > philosophy
 
@@ -133,7 +133,7 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 
 <br>Sustainable Digital Growth
 
-</div>---
+</div>
 
 🌐 Socials
 
@@ -149,7 +149,7 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>---
+</a></div>
 
 📊 GitHub Stats
 
@@ -157,6 +157,5 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=technopathir&theme=midnight-purple&hide_border=true" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0F071A&height=120&section=footer" /></div>
