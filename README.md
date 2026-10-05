@@ -110,19 +110,23 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/Analytics-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Campaign_Management-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Digital_Growth-6D28D9?style=for-the-badge" /></div>
-
 > skills
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode,wordpress&theme=dark" /><br><br>
+<div align="center">🌐 Digital & Web
 
-<img src="https://img.shields.io/badge/Digital_Marketing-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Branding-A855F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SEO-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Content_Production-6D28D9?style=for-the-badge" /><br><img src="https://img.shields.io/badge/Video_Editing-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scriptwriting-A855F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Competitor_Analysis-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Marketing_Roadmapping-6D28D9?style=for-the-badge" /></div>
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,git,github,vscode&theme=dark" /><br><br>
 
+📈 Marketing & Analytics
+
+<img src="https://skillicons.dev/icons?i=googleanalytics,wordpress,instagram,youtube&theme=dark" /><br><br>
+
+🎨 Creative & Design
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /><br><br>
+
+🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=notion,github,git,vscode,vercel&theme=dark" /></div>
 🌐 Socials
 
 <div align="center"><a href="https://www.instagram.com/technopath_ir">
