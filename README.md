@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/followers/technopathir?label=FOLLOWERS&style=for-the-badge&logo=github&color=1E1033" />
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/WEBSITE-TECHNOPATH-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>---
+</a></div>
 
 > whoami
 
@@ -29,7 +29,7 @@ Clear Strategy • Audience Understanding • Consistent Execution • Strong Br
 
 Technopath brings these disciplines together to create practical digital growth systems for businesses and personal brands.
 
----
+
 
 > current_focus
 
@@ -58,7 +58,7 @@ platforms:
   - Website
   - GitHub
 
----
+
 
 > founder
 
@@ -85,7 +85,7 @@ Her work focuses on:
 
 Through Technopath, the goal is to combine technology, strategic marketing, creativity, and data-driven thinking to build stronger digital brands and create measurable growth.
 
----
+
 
 > what_we_do
 
@@ -138,7 +138,7 @@ Through Technopath, the goal is to combine technology, strategic marketing, crea
 <img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a></div>---
+</a></div>
 
 > philosophy
 
@@ -190,14 +190,5 @@ We build systems designed to grow.
 
 → Turning digital experiences into growth.
 
-</div>---
-
-📊 GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=technopathir&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=technopathir&theme=midnight-purple&hide_border=true" /><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>---
-
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0F071A&height=120&section=footer" /></div>
+</div>
+>
