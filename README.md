@@ -123,6 +123,22 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 <img src="https://img.shields.io/badge/Competitor_Analysis-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Marketing_Roadmapping-6D28D9?style=for-the-badge" /></div>
 
+🌐 Socials
+
+<div align="center"><a href="https://www.instagram.com/technopath_ir">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
+</a><a href="https://t.me/technopathir">
+<img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" />
+</a><a href="https://youtu.be/6x32UI9ZvhI">
+<img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" />
+</a><a href="https://www.aparat.com/technopath_ir">
+<img src="https://img.shields.io/badge/Aparat-8B5CF6?style=for-the-badge&logoColor=white" />
+</a><a href="https://rubika.ir/technopath__ir">
+<img src="https://img.shields.io/badge/Rubika-8B5CF6?style=for-the-badge&logoColor=white" />
+</a><a href="https://technoopath.ir/">
+<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a></div>
+
 > philosophy
 
 <div align="center">Learn • Build • Grow • Improve
@@ -150,12 +166,3 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 </a><a href="https://technoopath.ir/">
 <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a></div>
-
-📊 GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=technopathir&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=technopathir&theme=midnight-purple&hide_border=true" /><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>
-
