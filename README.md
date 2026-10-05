@@ -153,12 +153,10 @@ s.io/badge/Web_Technologies-6D28D9?style=for-the-badge" /><br><br>
 
 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=technopathir&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=technopathir&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=technopathir&theme=midnight-purple&hide_border=true" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></div>---
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technopathir&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /></div>---
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0F071A&height=120&section=footer" /></div>
-
